@@ -1,6 +1,6 @@
 # DigiTools — Premium Digital Tools Store
 
-DigiTools is a modern e-commerce web app. It allows the users to purchase premium digital products like resume builders, social media schedulers, and more. It features a fully functional shopping cart.
+DigiTools is a modern e-commerce web app. It allows the users to purchase digital products like resume builders, social media schedulers, and more. It features a fully functional shopping cart.
 
 ---
 
