@@ -1,16 +1,21 @@
-# React + Vite
+# DigiTools — Premium Digital Tools Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DigiTools is a modern e-commerce web app. It allows the users to purchase premium digital products like resume builders, social media schedulers, and more. It features a fully functional shopping cart.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Technologies Used
 
-## React Compiler
+- **React** — we used React and made many reusable components
+- **Tailwind CSS and DaisyUI** — for styling and responsive layout
+- **React Toastify** — for showing cart notifications (add, remove, checkout)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Features of this application
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Shopping Cart with Live Updates** — Products can be added to the cart. The cart count in the navbar updates instantly.
+
+2. **Responsive Product Grid** — The product catalog adapts to any screen size: 1 column on mobile, 2 columns on tablet, and 3 columns on larger screens.
+
+3. **Dynamic Data Loading** — All product information is loaded from a `product_data.json` file in the public folder. This allows the easy adding, removing, or update products without changing the application code.
