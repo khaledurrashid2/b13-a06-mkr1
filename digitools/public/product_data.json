@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Resume Builder Pro",
+    "description": "Create professional resumes with modern templates and ATS optimization.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "/assets/icons/resume-builder.png"
+  },
+  {
+    "id": 2,
+    "name": "Portfolio Website Kit",
+    "description": "Build a stunning personal portfolio with ready-made sections.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Responsive design", "Easy customization", "SEO optimized"],
+    "icon": "/assets/icons/portfolio-website-kit.png"
+  },
+  {
+    "id": 3,
+    "name": "Freelancer Starter Pack",
+    "description": "Everything you need to kickstart your freelancing career.",
+    "price": 29,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Proposal templates", "Invoice generator", "Client tracker"],
+    "icon": "/assets/icons/freelance-starter.png"
+  },
+  {
+    "id": 4,
+    "name": "AI Content Writer",
+    "description": "Generate high-quality blog posts and marketing copy instantly.",
+    "price": 15,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["AI-powered writing", "SEO suggestions", "Multi-language support"],
+    "icon": "/assets/icons/artificial-intelligence.png"
+  },
+  {
+    "id": 5,
+    "name": "Social Media Scheduler",
+    "description": "Plan and automate your social media posts across platforms.",
+    "price": 12,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Auto scheduling", "Analytics dashboard", "Multi-platform support"],
+    "icon": "/assets/icons/social-media-marketing.png"
+  },
+  {
+    "id": 6,
+    "name": "E-commerce Starter Theme",
+    "description": "Launch your online store quickly with this ready-to-use theme.",
+    "price": 59,
+    "period": "one-time",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Mobile friendly", "Payment integration", "Fast loading"],
+    "icon": "/assets/icons/eCommerce.png"
+  },
+  {
+    "id": 7,
+    "name": "Online Course Builder",
+    "description": "Create and sell your courses with ease.",
+    "price": 25,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Video hosting", "Student management", "Quiz builder"],
+    "icon": "/assets/icons/online-course.png"
+  },
+  {
+    "id": 8,
+    "name": "Logo Maker Tool",
+    "description": "Design professional logos in minutes without design skills.",
+    "price": 9,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Drag & drop editor", "High-res export", "Brand kits"],
+    "icon": "/assets/icons/logo-maker.png"
+  },
+  {
+    "id": 9,
+    "name": "Website Analytics Pro",
+    "description": "Track and analyze your website traffic with advanced insights.",
+    "price": 20,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Real-time tracking", "Custom reports", "User behavior insights"],
+    "icon": "/assets/icons/website-analytics.png"
+  }
+
+]
